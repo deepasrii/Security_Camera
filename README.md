@@ -1,4 +1,4 @@
-# Security_Camera
+# Security_Camera using Computer Vision
 
-Build own Security Camera using OpenCv-Python.
+Built own motion sensing security camera using a webcam. Anytime motion is detected, the alert sound is created.
 

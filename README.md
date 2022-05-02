@@ -1,2 +1,4 @@
 # Security_Camera
-Python
+
+Build own Security Camera using OpenCv-Python.
+
